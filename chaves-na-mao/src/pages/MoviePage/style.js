@@ -70,9 +70,9 @@ export const MovieDescriptions = styled.div`
     justify-content: space-between;
 
     width: 60%;
-    height: 95%;
+    height: 90%;
 
-    padding: 15px;
+    padding: 10px;
 
     font-family: "Ubuntu", sans-serif;
     font-size: 1.5rem;
@@ -161,7 +161,7 @@ export const MovieDescriptions = styled.div`
     }
 
     div {
-      width: 90%;
+      width: 95%;
 
       h2 {
         font-size: 1.5rem;
