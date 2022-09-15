@@ -40,7 +40,7 @@ export const MoviePMain = styled.main`
       width: 2rem;
       height: 2rem;
 
-      top: -2.5rem;
+      top: -2rem;
     }
   }
 
