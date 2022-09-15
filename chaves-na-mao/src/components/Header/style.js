@@ -13,7 +13,7 @@ export const Header = styled.header`
   @media (max-width: 1000px) {
     flex-direction: column;
 
-    height: 22.5vh;
+    min-height: 22.5vh;
   }
 `;
 
@@ -61,7 +61,7 @@ export const Logo = styled.div`
 
   @media (max-width: 1400px) {
     width: 15vw;
-    height: 6vh;
+    min-height: 6vh;
 
     div {
       svg {
@@ -94,7 +94,7 @@ export const InputContainer = styled.div`
   align-items: center;
 
   width: 20%;
-  height: 5vh;
+  min-height: 5vh;
 
   border: 5px solid rgba(34, 40, 222, 0.125);
   border-radius: 20px;
